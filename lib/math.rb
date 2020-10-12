@@ -27,3 +27,5 @@ def square_root(num)
   sq_rt = Maths.sqrt(num)
   sq_rt
 end
+
+square_root(81)
